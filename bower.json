@@ -1,0 +1,24 @@
+{
+  "name": "qz-tray-socket",
+  "homepage": "https://github.com/geeksoul-me/qz-tray-socket",
+  "authors": [
+    "geeksoul-me"
+  ],
+  "description": "QZ print tray socket connection library",
+  "main": "qz-websocket.js",
+  "moduleType": [],
+  "keywords": [
+    "qz",
+    "print",
+    "raw",
+    "print"
+  ],
+  "license": "LGPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
