@@ -514,7 +514,7 @@ function getCertificate(callback) {
 		}
 		
 		function qzNoConnection() {
-		    alert("Unable to connect to QZ, is it running?");
+		    logger.warn("Unable to connect to QZ, is it running?");
 		
 		    //run deploy applet After page load
 		    var content = '';
